@@ -1,9 +1,9 @@
 # PowerBI_Northwind_Traders
 I have created reports based on Sales & order data for Northwind Traders, a fictitious gourmet food supplier, including information on customers, products, orders, shippers, and employees.
 
-INSIGHTS
+# INSIGHTS
 
-SALES-
+# SALES
    Here I used KPI's to show Total Sales, Total Quantity, Average Sales Per Order and used Measures to calculate the values.
    To filter the data, I have used Slicers for Year and Month.
    Total sales Area Chart can be drilled down to Year, Month and Quarter.

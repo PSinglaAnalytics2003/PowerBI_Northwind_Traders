@@ -39,6 +39,7 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
    2.  Slicer for Shipment Company Names and Year and Month
    3.  The clustered Column chart is comparing the total orders and previous year orders sold by all employees of the company
    4.  The Pie Chart showa the Orders by different Shipping Companies and Current Year and Previous Sales by each shipping company is also seen
-
+# REPORT
+![Screenshot (102)](https://github.com/PSinglaAnalytics2003/PowerBI_Northwind_Traders/assets/168019114/0e04fff5-1e4e-469f-895d-799583ae9b42)
     
 

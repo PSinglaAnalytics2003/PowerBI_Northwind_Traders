@@ -24,7 +24,7 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
    6. Bar charts show the top 5 and bottom 5 products by total sales and total orders
    7. The treemap shows the different categories of products by Price
 # REPORT
-
+![Screenshot (99)](https://github.com/PSinglaAnalytics2003/PowerBI_Northwind_Traders/assets/168019114/a09e5852-170c-4637-9c45-6a1104221fe4)
 # CUSTOMERS
    1.  Used card to show the Total Customers and a gauge chart to show the Average Order Per Customer
    2.  Used Slicers for Year and month

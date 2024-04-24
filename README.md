@@ -2,7 +2,7 @@
 I have created reports based on Sales & order data for Northwind Traders, a fictitious gourmet food supplier, including information on customers, products, orders, shippers, and employees.
 
 # INSIGHTS
-
+  
 # SALES
    1. Here I used card's to show Total Sales, Total Quantity, Average Sales Per Order and used Measures to calculate the values.
    2. To filter the data, I have used Slicers for Year and Month.
@@ -17,8 +17,8 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
 
 # PRODUCTS
    1. 
-   2. .
-   3. .
+   2. 
+   3. 
    4. 
    5.
    6. 

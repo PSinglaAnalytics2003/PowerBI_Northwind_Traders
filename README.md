@@ -4,8 +4,8 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
 # INSIGHTS
 
 # SALES
-   Here I used KPI's to show Total Sales, Total Quantity, Average Sales Per Order and used Measures to calculate the values.
-   To filter the data, I have used Slicers for Year and Month.
+   1. Here I used KPI's to show Total Sales, Total Quantity, Average Sales Per Order and used Measures to calculate the values.
+   2. To filter the data, I have used Slicers for Year and Month.
    Total sales Area Chart can be drilled down to Year, Month and Quarter.
    Used the clustered column chart to compare the current Year Sales to Previous Year Sales.
    Build Date Table to perform Time Intelligence functions.

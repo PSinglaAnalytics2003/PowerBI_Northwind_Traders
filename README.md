@@ -33,7 +33,7 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
    5.  Pie Chart to show Customers divided by Titles
    6.  A Matrix table to show Top 10 Companies with Highest Sales
 # REPORT
-
+![Screenshot (101)](https://github.com/PSinglaAnalytics2003/PowerBI_Northwind_Traders/assets/168019114/15ea3ee7-5760-42da-87ae-c79281d819e8)
 # SHIPPING
    1.  A card to show Total Shipment Charges and gauge charts to show total delayed shipment orders and Total Expenses
    2.  Slicer for Shipment Company Names and Year and Month

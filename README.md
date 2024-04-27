@@ -24,7 +24,8 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
    6. Bar charts show the top 5 and bottom 5 products by total orders
    7. The treemap shows the different categories of products by Price
 # REPORT
-![Screenshot (99)](https://github.com/PSinglaAnalytics2003/PowerBI_Northwind_Traders/assets/168019114/a09e5852-170c-4637-9c45-6a1104221fe4)
+   ![Screenshot (104)](https://github.com/PSinglaAnalytics2003/PowerBI_Northwind_Traders/assets/168019114/71557039-537a-4287-91a5-b0ca8a559ef7)
+   
 # CUSTOMERS
    1.  Used card to show the Total Customers and a gauge chart to show the Average Order Per Customer
    2.  Used Slicers for Year and month
@@ -33,7 +34,8 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
    5.  Pie Chart to show Customers divided by Titles
    6.  A Matrix table to show Top 10 Companies with Highest Sales
 # REPORT
-![Screenshot (101)](https://github.com/PSinglaAnalytics2003/PowerBI_Northwind_Traders/assets/168019114/15ea3ee7-5760-42da-87ae-c79281d819e8)
+   ![Screenshot (105)](https://github.com/PSinglaAnalytics2003/PowerBI_Northwind_Traders/assets/168019114/75c74739-86ea-44e5-ac5a-a6c457220164)
+
 # SHIPPING
    1.  A card to show Total Shipment Charges and gauge charts to show total delayed shipment orders and Total Expenses
    2.  Slicer for Shipment Company Names and Year and Month

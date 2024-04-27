@@ -11,8 +11,8 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
    5. Build Date Table to perform Time Intelligence functions.
    6. Create Map to show Total Sales divided in the countries.
    7. Compared Total Orders vs Total Sales by Month in line and column chart.
-# REPORT
-   ![Screenshot (98)](https://github.com/PSinglaAnalytics2003/PowerBI_Northwind_Traders/assets/168019114/05a0ad65-3f26-4b92-a56e-7e862cc7dfb6)
+# REPORT      
+![Screenshot (103)](https://github.com/PSinglaAnalytics2003/PowerBI_Northwind_Traders/assets/168019114/2425f910-e139-4de1-97c9-54b22a7cd5f5)
 
 
 # PRODUCTS

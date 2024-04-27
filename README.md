@@ -21,7 +21,7 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
    3. The Pie Chart shows the discontinued Products due to some reasons, can be due to lack of products or shipment issues
    4. A slicer to filter the data by Year and Month 
    5. The column chart shows the total orders vs previous month orders
-   6. Bar charts show the top 5 and bottom 5 products by total sales and total orders
+   6. Bar charts show the top 5 and bottom 5 products by total orders
    7. The treemap shows the different categories of products by Price
 # REPORT
 ![Screenshot (99)](https://github.com/PSinglaAnalytics2003/PowerBI_Northwind_Traders/assets/168019114/a09e5852-170c-4637-9c45-6a1104221fe4)
@@ -29,7 +29,7 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
    1.  Used card to show the Total Customers and a gauge chart to show the Average Order Per Customer
    2.  Used Slicers for Year and month
    3.  Total Customers by Country by using Map
-   4.  Showed Top 5 and Bottom 5 customers by total sales and total orders parameter
+   4.  Showed Top 5 and Bottom 5 customers by total orders
    5.  Pie Chart to show Customers divided by Titles
    6.  A Matrix table to show Top 10 Companies with Highest Sales
 # REPORT

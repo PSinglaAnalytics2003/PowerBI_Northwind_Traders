@@ -4,7 +4,7 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
 # INSIGHTS
   The reports offer a comprehensive view of Northwind Traders' performance over the years 2013 to 2015. Key metrics such as total sales, total quantity, and average sales per order provide insights into the company's financial health and operational efficiency during this period. Overall, these reports offer valuable insights into various aspects of Northwind Traders' operations, helping business to make proper decisions to improve performance and efficiency.
 # SALES
-   1. Here I used card's to show Total Sales, Total Quantity, Average Sales Per Order and used Measures to calculate these values.
+   1.  Total Sales- $1,354,000, Total Quantity- 51317, Average Sales Per Order- $1,632 and Total sales after discount- $1,266,000
    2. To filter the data, I have used Slicers for Year and Month.
    3. Total sales Area Chart can be drilled down to Year, Month and Quarter.
    4. Used the clustered column chart to compare the current Year Sales to Previous Year Sales.

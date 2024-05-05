@@ -38,5 +38,14 @@ I have created reports based on Sales & order data for Northwind Traders, a fict
    4.  Current years total sales were high comparing to previous year of all shipping companies.
 # REPORT
 ![Screenshot (102)](https://github.com/PSinglaAnalytics2003/PowerBI_Northwind_Traders/assets/168019114/0e04fff5-1e4e-469f-895d-799583ae9b42)
-    
 
+# RECOMMENDATIONS
+  1. Implement targeted sales strategies to address the decline in total sales observed in 2015 compared to 2014. This could involve launching promotional campaigns, offering discounts on popular products, and 
+   enhancing customer engagement initiatives to stimulate sales growth.
+  2. Optimize the product portfolio by focusing on top-selling categories such as beverages, dairy products, and poultry. Consider expanding the product range within these categories and investing in marketing 
+     efforts to further capitalize on their popularity among customers.
+  3. Strengthen relationships with key customers, such as Quick-Stop and Save-a-lot, by offering personalized incentives, discounts, or exclusive deals. Additionally, explore opportunities to attract new 
+     customers and increase customer retention through targeted marketing and exceptional service delivery.
+  4. Enhance shipping operations to reduce delays and streamline processes, ultimately improving customer satisfaction and loyalty. This could involve renegotiating contracts with shipping providers, investing in logistics technology, or optimizing warehouse management systems to expedite order fulfillment and delivery.
+  5. Provide training and incentives to sales representatives to increase their effectiveness in placing orders and driving sales. Encourage proactive communication with customers, offer performance-based 
+    incentives, and provide ongoing support and resources to empower sales teams to achieve targets and foster long-term growth.
